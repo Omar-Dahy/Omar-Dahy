@@ -17,7 +17,7 @@
 
 I'm an **Embedded Systems Engineer** from Egypt, graduated from **Kafrelsheikh University – Faculty of Engineering (Computer & Control Systems)**, with a strong focus on **Automotive Embedded Systems**, **ECU Development**, **Communication Protocols**, and **Autonomous Driving Technologies**.
 
-My work centers on designing and developing **multi-ECU automotive architectures**, implementing **CAN-based communication networks**, and building **embedded firmware** for real-time control systems. I'm passionate about bridging classical embedded systems engineering with **AI-driven autonomous vehicle technologies**, **functional safety**, and **connected vehicle systems**.
+My work centers on designing and developing **multi-ECU automotive architectures**, implementing **I2C-based communication networks**, and building **embedded firmware** for real-time control systems. I'm passionate about bridging classical embedded systems engineering with **AI-driven autonomous vehicle technologies**, **functional safety**, and **connected vehicle systems**.
 
 - 🔧 Currently working as a **Freelance MVP & Hardware Prototyping Engineer**, building end-to-end embedded/IoT MVPs (hardware, firmware, connectivity, enclosure).
 - 🚗 Led the **DGAS (Drowsy Guard Autopilot System)** graduation project — a large-scale, multi-ECU automotive platform.
