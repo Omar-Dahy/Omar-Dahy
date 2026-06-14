@@ -86,7 +86,7 @@ My work centers on designing and developing **multi-ECU automotive architectures
 #### 🚘 [DGAS — Drowsy Guard Autopilot System](#)
 *Graduation Project — Large-scale distributed automotive system (multi-year, two-phase development)*
 
-A multi-ECU automotive platform built on a mini-size car, developed over two academic phases with guidance from international sponsors. The system integrates AI-based driver monitoring with real-time vehicle control through a CAN-based network.
+A multi-ECU automotive platform built on a mini-size car, developed over two academic phases with guidance from international sponsors. The system integrates AI-based driver monitoring with real-time vehicle control through a I2C-based network.
 
 - **Architecture:** Steering ECU, Motion ECU, Lighting ECU, Gateway ECU, Driver Cabin Controller ECU, and Wireless Communication Module — all communicating over **CAN Bus**.
 - **AI & Computer Vision:** Driver drowsiness detection with autonomous emergency intervention.
