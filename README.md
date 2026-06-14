@@ -101,22 +101,11 @@ A multi-ECU automotive platform built on a mini-size car, developed over two aca
 #### ⚙️ Automotive ECU Development Projects
 *Independent, production-style ECU design and implementation*
 
-- Designed multiple standalone ECUs with **CAN-based communication architecture**.
+- Designed multiple standalone ECUs with **I2C-based communication architecture**.
 - Implemented real-time embedded firmware on **STM32** microcontrollers.
 - Built real-time control systems with sensor integration for automotive use cases.
 
-`STM32` `CAN Bus` `Real-Time Systems` `Sensor Integration`
-
----
-
-#### 🌐 Embedded Networking & Communication
-*Gateway and connected-systems prototyping*
-
-- Implemented **Ethernet communication using W5500** modules.
-- Built **TCP/IP**-based networking for embedded devices.
-- Developed gateway and data-routing concepts for distributed embedded systems.
-
-`Ethernet` `TCP/IP` `W5500` `Gateway Design`
+`STM32` `I2C Bus` `Real-Time Systems` `Sensor Integration`
 
 ---
 
