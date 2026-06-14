@@ -88,13 +88,13 @@ My work centers on designing and developing **multi-ECU automotive architectures
 
 A multi-ECU automotive platform built on a mini-size car, developed over two academic phases with guidance from international sponsors. The system integrates AI-based driver monitoring with real-time vehicle control through a I2C-based network.
 
-- **Architecture:** Steering ECU, Motion ECU, Lighting ECU, Gateway ECU, Driver Cabin Controller ECU, and Wireless Communication Module — all communicating over **CAN Bus**.
+- **Architecture:** Steering ECU, Motion ECU, Lighting ECU, Gateway ECU, Driver Cabin Controller ECU, and Wireless Communication Module — all communicating over **I2C Bus**.
 - **AI & Computer Vision:** Driver drowsiness detection with autonomous emergency intervention.
 - **Vehicle Control:** Steering control, motion control, and intelligent lighting control.
 - **Software:** Python-based driver cabin simulation with **PS4 controller** integration for input simulation.
 - **System Engineering:** Full system-level integration, power distribution, and network architecture design.
 
-`CAN Bus` `Embedded C` `AUTOSAR Concepts` `Computer Vision` `System Architecture` `Python`
+`I2C Bus` `Embedded C` `AUTOSAR Concepts` `Computer Vision` `System Architecture` `Python`
 
 ---
 
