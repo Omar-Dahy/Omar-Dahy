@@ -126,15 +126,13 @@ A multi-ECU automotive platform built on a mini-size car, developed over two aca
 - **8-Bit Basic Computer (Verilog RTL):** Pipelined & non-pipelined microprocessor architectures with ATmega32-based memory I/O.
 - **Microwave Control System:** ATmega32A-based controller with matrix keypad, relay switching, and AC-DC power stage.
 
---- 
+---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omar-Dahy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Dahy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://streak-stats.demolab.com?user=Omar-Dahy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Dahy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </p>
